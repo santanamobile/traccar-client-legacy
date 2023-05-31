@@ -1,0 +1,9 @@
+{
+    "TRACCAR_SERVER": "",
+    "TRACCAR_PORT": 8082,
+    "TRACCAR_PROTOCOL_PORT": 5005,
+    "DEVICE_ID": "",
+    "GPSD_HOST": "localhost",
+    "GPSD_PORT": 2947,
+    "GPSD_INTERVAL": 30
+}
